@@ -1,0 +1,85 @@
+
+body{
+    background-color: #dfe9f5;
+    font-family: 'Quicksand', sans-serif;
+    max-width: 100%;
+}
+div{
+    
+    text-align: center;
+   
+}
+
+h1{    
+    color: #3db0f7;
+}
+
+h2{
+    color:  #6d2c7d;
+}
+h3{
+    color:  #6d2c7d;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 15px;
+    border: 10px solid rgba(0, 0, 0, 0);
+}
+hr{
+    height: 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: lightskyblue;
+}
+
+#p1{
+    background-color: #93cbef;
+    border-radius: 20px;
+
+    
+}
+footer {
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
+li {
+  list-style-image: url("https://manz.dev/assets/stickers/batmanz.png");
+}
+#Logochrome {
+    border: 35px solid rgba(0, 0, 0, 0);
+}
+#tittle {
+    text-align: center;
+    width: 300px;
+    height: 50px;
+
+}
+#tdh3 {
+    text-align: center;
+
+    
+}
+#p2 {
+    text-align: center;
+    background-color: #93cbef;
+    border-radius: 20px;
+    max-height: 150px;
+    max-width: 440px;
+
+}
+#p3 {
+    text-align: center;
+    background-color: #93cbef;
+    border-radius: 20px;
+    height: ;
+    max-width: 5200px;
+
+}
+table {
+    overflow: auto;
+}
+td {
+    max-width: 700px;
+}
