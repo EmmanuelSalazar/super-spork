@@ -36,7 +36,7 @@ hr{
 #p1{
     background-color: #93cbef;
     border-radius: 20px;
-
+    hover:  ;
     
 }
 footer {
@@ -50,7 +50,7 @@ li {
 #Logochrome {
     border: 35px solid rgba(0, 0, 0, 0);
 }
-#tittle {
+#tittle: {
     text-align: center;
     width: 300px;
     height: 50px;
@@ -77,9 +77,34 @@ li {
     max-width: 5200px;
 
 }
+
 table {
     overflow: auto;
 }
+td:hover{
+    background-color: #93cbef;
+    border-radius: 20px;
+    transition: background-color .5s;
+
+}
 td {
     max-width: 700px;
+}
+
+#a1{
+    color: red;
+}
+#a1:hover {
+    background-color: #93B4EF;
+}
+input {
+    background: purple;
+   border: 1px solid #393939;
+   border-radius: 5px 5px 5px 5px;
+   color: #red;
+   font-size: 12px;
+   padding: 5px;
+}
+input: hover {
+    background: white;
 }
